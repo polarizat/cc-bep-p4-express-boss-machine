@@ -1,4 +1,4 @@
-# Boss Machine
+# Boss Machine - Back-End using Express.js
 
 ## Project Overview
 
